@@ -15,4 +15,4 @@ Output
 
 _© 2022 XYZ, Inc._
 
-Fixed a typo.
+Fixed the typo.
